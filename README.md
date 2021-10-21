@@ -14,6 +14,7 @@ Taxi service with authentication system.
 * Jstl
 * Tomcat 9.0.54
 * HTML, CSS
+* Log4j2
 ## Functionality <h>
 * Add driver to car 'cars/drivers/add'
 * Add car `/cars/add`
