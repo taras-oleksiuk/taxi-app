@@ -3,9 +3,11 @@
 * [Technologies](#technologies)
 * [Functionality](#functionality)
 * [Setup](#setup)
+  ![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Description <h>
 This project shows my skills in Java, OOP, SOLID, N-tier architecture, JDBC and Web principles.
 Taxi service with authentication system.
+  ![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Technologies <h>
 * Java 11
 * MySQL
@@ -15,6 +17,7 @@ Taxi service with authentication system.
 * Tomcat 9.0.54
 * HTML, CSS
 * Log4j2
+  ![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Functionality <h>
 * Add driver to car 'cars/drivers/add'
 * Add car `/cars/add`
@@ -23,6 +26,7 @@ Taxi service with authentication system.
 * All drivers `/drivers/all`
 * Add manufacture `/manufacturers/add`
 * All manufacturers `/manufacturers/all`
+  ![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Setup <h>
 1. Install MySQL.
 2. Install Tomcat 9.0.54
@@ -35,4 +39,3 @@ Fill in the configuration data:
 -   `private static final String PASSWORD = "YOUR PASSWORD"`;
 -   `private static final String JDBC_DRIVER = "YOUR DRIVER";`
 6. Run this project using a local Tomcat server.
-
