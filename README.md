@@ -18,6 +18,7 @@ Taxi service with authentication system.
 * Tomcat 9.0.54
 * HTML, CSS
 * Log4j2
+  
   ![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Functionality <h>
 * Add driver to car 'cars/drivers/add'
@@ -27,6 +28,7 @@ Taxi service with authentication system.
 * All drivers `/drivers/all`
 * Add manufacture `/manufacturers/add`
 * All manufacturers `/manufacturers/all`
+  
   ![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Setup <h>
 1. Install MySQL.
