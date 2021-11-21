@@ -3,7 +3,6 @@
 * [Technologies](#technologies)
 * [Functionality](#functionality)
 * [Setup](#setup)
-  ![line](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ## Description <h>
 This project shows my skills in Java, OOP, SOLID, N-tier architecture, JDBC and Web principles.
 Taxi service with authentication system.
